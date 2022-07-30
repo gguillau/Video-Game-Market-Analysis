@@ -31,19 +31,6 @@ Skills Used: Data PreProcessing, Exploratory Data Analysis, Statistical Data Ana
 * Rating (ESRB)
 * Data for 2016 may be incomplete.
 
-## Conclusion
-The objective of this project was to identify patterns that determine whether a game succeeds or not.
-
-Below are insights discovered:
-
-* The top 5 most popular platforms in the world since 1985 are the PS2, Xbox 360, PS3, Wii, and DS.
-* New platforms generally take about 10 years to appear and old ones to fade
-* From 2013-2016, PS4 games outsold it's competitors by a large margine and sold the most units, followed by the PS3, and then the Xbox One.
-* There is close to no correlation between user score and total sales for PS4 (most popular platfrom from 2013-2016) games.
-* There is a moderate correlation between critic score and total score for PS4 games. As critic score improve, total sales moderately improve.
-* From 2013-2016, The shooter and sports genres were the most popular across all platforms.
-
-There are several factors that work in tandem that determine whether a game succeeds or not, with the most important being genre, the platform(s) that the game is sold on, and critic scores.
 
 ## Libraries Used
 - Pandas
