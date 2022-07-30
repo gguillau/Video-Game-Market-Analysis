@@ -44,26 +44,11 @@ Below are insights discovered:
 * There is a moderate correlation between critic score and total score for PS4 games. As critic score improve, total sales moderately improve.
 * From 2013-2016, The shooter and sports genres were the most popular across all platforms.
 
-In Japan (2013-2016):
+There are several factors that work in tandem that determine whether a game succeeds or not, with the most important being genre, the platform(s) that the game is sold on, and critic scores.
 
-* The Nintendo 3DS was by far the most popular platform in Japan from 2013-2016, followed by the PS3 and PS4, respectively.
-* The action genre had the most game releases in Japan from 2013-2016, but the most popular genres by median total sales were sports and puzzle, followed by role-playing.
-The most profitable game rating is T and and E.
-
-In North America (2013-2016):
-
-* The Xbox 360 was the most popular platform in North America from 2013-2016, closely followed by the PS3 and Xbox One, respectively.
-* The Nintendo 3DS was the least popular among the top 5 platforms in North America.
-* The action genre had the most game releases in North America from 2013-2016, but the most popular genres by total median sales were sports, followed by shooter.
-* The most profitable game rating in North America from 2013-2016 was E10+ followed by M.
-
-In Europe (2013-2016):
-
-* The most popular platform sold in Europe from 2013-2016 was the PS3, followed by the PS4 and then the Xbox 360.
-* The Nintendo 3DS was the least popular among the top 5 platforms in sold in Europe.
-* The action genre had the most game releases in Europe from 2013-2016, but the most popular genres by median total sales was shooter, followed by racing and fighting.
-* The most profitable game rating in Europe was M, closely followed by E10+.
-
-
-In conclusion, there are several factors that work in tandem that determine whether a game succeeds or not, with the most important being genre, the platform(s) that the game is sold on, and critic scores.
-
+## Libraries Used
+- Pandas
+- Matplotlib.pyplot
+- seaborn
+- scipy.stats
+- numpy
